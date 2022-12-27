@@ -1,0 +1,95 @@
+{
+  "name": "coligans",
+  "version": "0.0.1",
+  "description": "A BOT PUBLIC MULTI FUNCTION",
+  "engines": {
+    "node": "18.x"
+  },
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "@bochilteam/scraper": "^3.0.0",
+    "@open-wa/wa-automate": "^4.47.0",
+    "@phaticusthiccy/open-apis": "^1.8.5",
+    "app-root-path": "^3.0.0",
+    "app-store-scraper": "^0.17.0",
+    "async-g-i-s": "^1.0.0",
+    "axios": "^0.21.4",
+    "bent": "^7.3.12",
+    "brainly-scraper-v2": "^1.0.3",
+    "canvacord": "^5.1.0",
+    "chalk": "4.1.2",
+    "colors": "1.4.0",
+    "dotenv": "^10.0.0",
+    "emoji-api": "^2.0.1",
+    "figlet": "^1.5.2",
+    "file-type": "^16.5.4",
+    "flag": "^4.4.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "form-data": "^4.0.0",
+    "fs-extra": "^10.0.0",
+    "google-it": "^1.6.2",
+    "google-play-scraper": "^9.1.0",
+    "hxz-api": "^1.0.1",
+    "ikyy": "^5.0.6",
+    "insta-fetcher": "^1.3.21",
+    "lolis.life": "^4.0.0",
+    "lowdb": "1.0.0",
+    "marked": "^4.0.9",
+    "moment-timezone": "^0.5.34",
+    "music-lyrics": "^2.0.2",
+    "nekos.life": "^3.0.0",
+    "node-cron": "^3.0.0",
+    "node-fetch": "^2.6.7",
+    "node-gtts": "^2.0.2",
+    "node-webpmux": "^3.1.1",
+    "parse-ms": "2.1.0",
+    "path": "^0.12.7",
+    "pdfkit": "^0.13.0",
+    "performance-now": "^2.1.0",
+    "pretty-ms": "^7.0.1",
+    "promise": "^8.1.0",
+    "readline": "^1.3.0",
+    "remove.bg": "^1.3.0",
+    "request": "^2.88.2",
+    "rumus-bdr": "^1.0.0",
+    "sharp": "^0.30.7",
+    "spotify-finder": "^2.1.1",
+    "spotifydl-core": "^0.2.0",
+    "stream": "0.0.2",
+    "text2png": "^2.3.0",
+    "tiktok-scraper-ts": "^1.2.2",
+    "translatte": "^3.0.1",
+    "waifu.pics-wrapper": "^1.0.0",
+    "xfarr-api": "^2.0.0",
+    "xteam-api": "^0.0.7",
+    "yt-search": "^2.10.3",
+    "ytdl-core": "^4.11.0"
+  },
+  "devDependencies": {
+    "got": "^11.8.1",
+    "tape": "^5.2.0"
+  },
+  "peerDependencies": {
+    "fluent-ffmpeg": "^2.1.2",
+    "sharp": "^0.30.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Terror-Machine/fn-whatsapp-bot.git"
+  },
+  "keywords": [
+    "fnbots",
+    "fnbots-wa",
+    "whatsapp",
+    "whatsapp-bot"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Terror-Machine/fn-whatsapp-bot/issues"
+  },
+  "homepage": "https://github.com/Terror-Machine/fn-whatsapp-bot#readme",
+  "author": "arfine meka"
+}
